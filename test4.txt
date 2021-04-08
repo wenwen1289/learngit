@@ -1,3 +1,6 @@
 git diff
 git status
 git diff --cached
+
+
+add word
