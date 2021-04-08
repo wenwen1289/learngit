@@ -4,3 +4,4 @@ git diff --cached
 
 
 add word
+66666
